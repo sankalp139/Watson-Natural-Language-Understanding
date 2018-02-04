@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: chanson34-hasura
+  data: null
+  kubeContext: chanson34
+  name: chanson34

@@ -1,0 +1,25 @@
+{
+  "name": "naturalanguage",
+  "version": "1.0.0",
+  "description": "language understanding app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016"
+  },
+  "author": "sankalp",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "middlewares": "^0.1.1",
+    "request": "^2.83.0",
+    "urlencoded-parser": "^1.0.0",
+    "watson-developer-cloud": "^3.0.5"
+  }
+}
