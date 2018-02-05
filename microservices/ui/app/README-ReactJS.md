@@ -26,11 +26,11 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <br/>
   <br/>
   
-
+<ul type="disc">
   <li>Now enter any<b> text/url/html </b>in textbox</li>
   <li>Click on<b> Analyze </b> button</li>
   <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
-
+</ul>
 <br/>
  <img src="https://github.com/Jyotsna-Singh-16/ReactJS-Watson-Natural-Language-Understanding-Readme/blob/master/responsepage.png" / >
  <br/>
