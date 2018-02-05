@@ -26,7 +26,7 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <br/>
   <br/>
   
-<ul>
+<ul type="disk">
   <li>Now enter any<b> text/url/html </b>in textbox</li>
   <li>Click on<b> Analyze </b> button</li>
   <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
