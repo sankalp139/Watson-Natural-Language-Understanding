@@ -14,7 +14,7 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
  ### Installing
   <ul>
   <li>Clone the repository by running git clone https://github.com/sankalp139/Watson-Natural-Language-Understanding </li>
-  <li>Change your directory to <b> /microservices/ui </b> </li>
+  <li>Change your directory to <b> /microservices/ui/app </b> </li>
   <li>Run <b> npm install </b> from your terminal to install all dependencies.</li>
   <li>Run <b>npm install material-ui </b> if there is an error for importing material-ui  </li>
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
