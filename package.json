@@ -1,0 +1,19 @@
+{
+  "name": "naturalanguage",
+  "version": "1.0.0",
+  "description": "language understanding app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016"
+  },
+  "author": "sankalp",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "middlewares": "^0.1.1"
+  }
+}

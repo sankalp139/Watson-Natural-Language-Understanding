@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to feedback page</title>
+</head>
+<body>
+ <!-- <div id="Input_area">
+            <h3>Input your Sentence</h3><h3><div><%=test  %></div></h3>
+
+        <input type="text" id="username" placeholder="comments" >
+        <br/><br/>
+        <input type="submit" id="login_btn" value="POST" onclick= "
+         var request= new XMLHttpRequest();
+	 	var username =document.getElementById('username').value;
+		request.open('POST','/',true);
+		request.setRequestHeader('Content-Type','application/json');
+	
+		 request.send(JSON.stringify({username:username}));
+		  ">
+		  </div> -->
+		   <div class="ui container"> <br><br><br><center>
+            <div><h3>Welcome to the Watson Natural Language Understanding API</h3></div><br><br><br>
+                <form class="ui form" action="/" method="POST">
+                        <div class="field">
+                          <input name="value" id = "username" placeholder="Enter a value" type="text">
+                        
+                        </div>
+                        <button class="ui button" type="submit">Submit</button>
+               </form> </center>
+                
+        </div>
+	
+<% if(test){ %>
+   <div><h3><%=test  %><h3></div>
+ <% } else{ %>  
+  <center> <h3> Enter The statement to be Analyzed</h3></center>
+<% } %>
+        
+        
+</body>
+</html>
